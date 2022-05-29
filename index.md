@@ -1,4 +1,4 @@
-<table frame=void>
+<table style="border: none;">
   <tr>
     <td width="75%">
       <h1 align="left">刁隽宇</h1>
