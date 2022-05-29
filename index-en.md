@@ -1,5 +1,4 @@
-
-<table border="0" frame=void>
+<table frame=void>
   <tr>
     <td width="75%">
       <h1 align="left">Junyu Diao</h1>
@@ -10,7 +9,8 @@
       <p align="left"><a align="left" href="/index.html">中文版</a></p>
     </td>
     <td width="25%">
-      <img src="imgs/avatar.png" width="100%">      <!-- 插入证件照代码 -->
+      <!-- 插入证件照代码 -->
+      <img src="imgs/avatar.png" width="100%">     
     </td>
   </tr>
 </table>
