@@ -1,15 +1,17 @@
-<table border="0">
+<table border="0" frame=void>
   <tr>
     <td width="75%">
       <h1 align="left">刁隽宇</h1>
       <p align="left"><b>硕士在读</b></p>
       <p align="left"><b>上海科技大学信息学院</b></p>
       <p align="left"><b>邮箱：diaojy@shanghaitech.edu.cn</b></p>
-      <p align="left"><b>地址：上海市浦东新区中科路1号上海科技大学大学，邮编201210</b></p>
-      <a align="left" href="/index-en.html">English Version</a>
+      <p align="left"><b>地址：上海市浦东新区中科路1号上海科技大学大学</b></p>
+      <p align="left"><b>邮编：201210</b></p>
+      <p align="left"><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="imgs/avatar.png" width="100%">      <!-- 插入证件照代码 -->
+      <!-- 插入证件照代码 -->
+      <img src="imgs/avatar.png" width="100%">    
     </td>
   </tr>
 </table>

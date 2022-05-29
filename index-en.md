@@ -1,13 +1,13 @@
 
-<table border="0">
+<table border="0" frame=void>
   <tr>
     <td width="75%">
       <h1 align="left">Junyu Diao</h1>
       <p align="left"><b>Master's degree in reading</b></p>
       <p align="left"><b>Shanghaitech University, School of Information Science and Technology</b></p>
       <p align="left"><b>email: diaojy@shanghaitech.edu.cn</b></p>
-      <p align="left"><b>Address: 上海市浦东新区中科路1号上海科技大学大学，邮编201210</b></p>
-      <a align="left" href="/index.html">中文版</a>
+      <p align="left"><b>Address: Shanghaitech University, No.1 Zhongke Road, Pudong New Area, Shanghai, China 201210</b></p>
+      <p align="left"><a align="left" href="/index.html">中文版</a></p>
     </td>
     <td width="25%">
       <img src="imgs/avatar.png" width="100%">      <!-- 插入证件照代码 -->
