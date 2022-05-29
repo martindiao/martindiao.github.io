@@ -2,12 +2,12 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Junyu Diao</h1>
-      <p><b>硕士在读</b></p>
-      <p><b>上海科技大学信息学院</b></p>
-      <p><b>邮箱：diaojy@shanghaitech.edu.cn</b></p>
-      <p><b>地址：上海市浦东新区中科路1号上海科技大学大学，邮编201210</b></p>
-      <a href="/index.html">中文版</a>
+      <h1 align="left">Junyu Diao</h1>
+      <p align="left"><b>硕士在读</b></p>
+      <p align="left"><b>上海科技大学信息学院</b></p>
+      <p align="left"><b>邮箱：diaojy@shanghaitech.edu.cn</b></p>
+      <p align="left"><b>地址：上海市浦东新区中科路1号上海科技大学大学，邮编201210</b></p>
+      <a align="left" href="/index.html">中文版</a>
     </td>
     <td width="25%">
       <img src="imgs/avatar.png" width="100%">      <!-- 插入证件照代码 -->
